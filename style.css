@@ -1,0 +1,79 @@
+
+
+
+.tabla1 {
+    border-collapse: collapse;
+    margin:auto;
+    background-color: white;
+    text-align: center;
+}
+
+table.tabla1 th,td {
+    border:1px solid black;
+    padding: 50px;
+    width: 100px;
+}
+
+body {
+background-color: white;
+color: black;
+}
+
+.tabla2 {
+border-collapse: collapse;
+margin:auto;
+padding: 100px;
+width: 800px;;
+}
+
+table.tabla2 th,td {
+border:1px solid black;
+padding: 10px;
+width: 50px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.MP04{
+background-color: aqua;}
+
+.MP06{
+background-color: orange;
+}
+
+.MP07{
+background-color: green;
+}
+
+.MP08{
+background-color: blue;
+}
+
+.MP10{
+background-color: blueviolet;
+}
+
+.MP12{
+background-color: yellow;
+}
+
+.MP14{
+background-color: brown;
+}
+
+.T{
+background-color: pink;
+}
+
+.tabla3 {
+    margin:auto;
+    background-color: darkgrey;
+    text-align: left;
+    padding: 50px;
+    width: 100%;;
+} 
+
+table.tabla3 th,td{
+background-color: whitesmoke;
+
+}
+
